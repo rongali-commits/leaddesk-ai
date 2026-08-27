@@ -1,0 +1,12 @@
+services:
+  leaddesk:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./runtime:/app/runtime
+      - ./data:/app/data:ro
+    restart: unless-stopped
+
