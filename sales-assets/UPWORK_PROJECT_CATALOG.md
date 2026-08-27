@@ -8,6 +8,12 @@ Alternative niche listing after the first reviews:
 
 **You will get a cleaning business chatbot that answers questions and captures quote requests**
 
+## Live demonstration
+
+Customer experience: [https://leaddesk-ai-production.up.railway.app](https://leaddesk-ai-production.up.railway.app)
+
+The staff dashboard is also live at `/admin`; keep its token private and show it only during a recorded or live walkthrough.
+
 ## Search tags
 
 AI chatbot · Website chatbot · Lead generation · OpenAI API · Business automation
@@ -98,4 +104,3 @@ LeadDesk AI is a white-label FAQ and quote assistant for local service businesse
 4. Submit a sample quote request.
 5. Open the admin dashboard, show its lead score, change the status, and export CSV.
 6. Open Knowledge, edit an approved answer, then explain that client information stays under their control.
-

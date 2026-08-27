@@ -4,6 +4,9 @@ LeadDesk AI is a white-label website FAQ and lead-capture assistant for local se
 
 The included fictional **BrightHome Cleaning** site is a ready-to-demonstrate sales sample. Replace every sample claim, price, location, link, and policy with client-approved information before a real deployment.
 
+**Live sales demo:** [leaddesk-ai-production.up.railway.app](https://leaddesk-ai-production.up.railway.app)  
+**Admin entrance:** [leaddesk-ai-production.up.railway.app/admin](https://leaddesk-ai-production.up.railway.app/admin) (requires the private server-side admin token)
+
 ![LeadDesk AI customer demo](sales-assets/01-customer-demo.png)
 
 ![LeadDesk AI lead dashboard](sales-assets/02-admin-dashboard.png)
