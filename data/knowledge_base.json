@@ -3,7 +3,7 @@
     "id": "standard-clean",
     "title": "Standard home cleaning",
     "category": "Services",
-    "url": "https://example.com/services/standard-cleaning",
+    "url": "https://leaddesk-ai-production.up.railway.app/#services",
     "keywords": ["standard", "regular", "recurring", "weekly", "biweekly", "included"],
     "content": "A standard clean covers kitchen counters and appliance exteriors, bathroom surfaces, dusting, vacuuming, mopping, and general tidying. Recurring visits can be weekly, every two weeks, or every four weeks. Inside ovens, refrigerators, and cabinets are optional add-ons."
   },
@@ -11,7 +11,7 @@
     "id": "deep-clean",
     "title": "Deep cleaning",
     "category": "Services",
-    "url": "https://example.com/services/deep-cleaning",
+    "url": "https://leaddesk-ai-production.up.railway.app/#services",
     "keywords": ["deep", "first", "detail", "baseboards", "build-up"],
     "content": "Deep cleaning is designed for first-time visits or homes needing extra detail. It includes the standard-clean checklist plus baseboards, door frames, reachable light fixtures, cabinet fronts, and extra time on built-up kitchen and bathroom areas."
   },
@@ -19,7 +19,7 @@
     "id": "move-clean",
     "title": "Move-in and move-out cleaning",
     "category": "Services",
-    "url": "https://example.com/services/move-cleaning",
+    "url": "https://leaddesk-ai-production.up.railway.app/#services",
     "keywords": ["move", "moving", "empty", "deposit", "realtor"],
     "content": "Move-in and move-out cleaning is for empty homes. It includes interior cabinets and drawers, baseboards, bathroom and kitchen cleaning, floors, and reachable surfaces. Interior appliance cleaning can be selected when requesting a quote."
   },
@@ -27,7 +27,7 @@
     "id": "pricing",
     "title": "Pricing and estimates",
     "category": "Pricing",
-    "url": "https://example.com/pricing",
+    "url": "https://leaddesk-ai-production.up.railway.app/#assistant",
     "keywords": ["price", "pricing", "cost", "quote", "estimate", "fee"],
     "content": "Standard cleaning typically starts at $129, but the final quote depends on home size, service type, condition, frequency, and add-ons. BrightHome confirms the price before the appointment. There is no charge to request a quote."
   },
@@ -35,7 +35,7 @@
     "id": "service-area",
     "title": "Service area",
     "category": "Availability",
-    "url": "https://example.com/service-area",
+    "url": "https://leaddesk-ai-production.up.railway.app/#assistant",
     "keywords": ["area", "location", "zip", "austin", "round rock", "cedar park", "pflugerville"],
     "content": "BrightHome serves Austin, Round Rock, Cedar Park, Pflugerville, and selected nearby communities. Customers outside these areas can submit their postal code for confirmation before booking."
   },
@@ -43,7 +43,7 @@
     "id": "booking",
     "title": "Booking, rescheduling, and access",
     "category": "Appointments",
-    "url": "https://example.com/help/appointments",
+    "url": "https://leaddesk-ai-production.up.railway.app/#assistant",
     "keywords": ["book", "booking", "schedule", "reschedule", "cancel", "appointment", "access", "home"],
     "content": "Customers can request a date online. BrightHome confirms availability by email or phone. Appointments may be rescheduled with at least 24 hours notice. Customers do not need to be home if safe access instructions are arranged in advance."
   },
@@ -51,7 +51,7 @@
     "id": "supplies-pets",
     "title": "Supplies, products, and pets",
     "category": "Preparation",
-    "url": "https://example.com/help/preparing",
+    "url": "https://leaddesk-ai-production.up.railway.app/#services",
     "keywords": ["supplies", "products", "equipment", "eco", "green", "pet", "dog", "cat"],
     "content": "The cleaning team brings standard supplies and equipment. Fragrance-free products can be requested when booking. Pets are welcome, but customers should share handling instructions and secure any animal that may be anxious around unfamiliar people or equipment."
   },
@@ -59,9 +59,8 @@
     "id": "guarantee",
     "title": "Satisfaction policy",
     "category": "Policies",
-    "url": "https://example.com/help/satisfaction",
+    "url": "https://leaddesk-ai-production.up.railway.app/#assistant",
     "keywords": ["guarantee", "problem", "issue", "complaint", "satisfaction", "fix"],
     "content": "If an included area was missed, customers should contact BrightHome within 24 hours of the visit. The team will review the concern and, when appropriate, arrange a return visit for the missed area."
   }
 ]
-

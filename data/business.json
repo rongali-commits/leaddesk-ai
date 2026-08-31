@@ -6,7 +6,7 @@
   "description": "Friendly, insured home cleaning for busy households in the greater Austin area.",
   "phone": "(512) 555-0148",
   "email": "hello@brighthome.example",
-  "booking_url": "https://example.com/book-brighthome",
+  "booking_url": "https://leaddesk-ai-production.up.railway.app/#assistant",
   "service_area": "Austin, Round Rock, Cedar Park, Pflugerville, and nearby communities",
   "hours": "Monday-Friday, 8:00 AM-6:00 PM; Saturday, 9:00 AM-2:00 PM",
   "brand": {
@@ -21,4 +21,3 @@
   ],
   "privacy_notice": "Demo notice: contact details are stored so the business can respond to your quote request. Do not enter sensitive information."
 }
-

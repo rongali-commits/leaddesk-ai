@@ -95,6 +95,15 @@ class Storage:
                             now_iso(),
                         ),
                     )
+            for article in seed_articles:
+                connection.execute(
+                    """
+                    UPDATE knowledge_articles
+                    SET url = ?, updated_at = ?
+                    WHERE id = ? AND url LIKE 'https://example.com/%'
+                    """,
+                    (article.get("url", ""), now_iso(), article["id"]),
+                )
 
     def ping(self) -> bool:
         try:
