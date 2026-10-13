@@ -1,5 +1,9 @@
 # LeadDesk AI
 
+[![Checks](https://github.com/rongali-commits/leaddesk-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/rongali-commits/leaddesk-ai/actions/workflows/ci.yml)
+
+[Case study](https://noerong.com/projects/leaddesk-ai) · [Live demo](https://leaddesk-ai-production.up.railway.app) · [Contact](https://noerong.com/contact) · [Checks](https://github.com/rongali-commits/leaddesk-ai/actions)
+
 LeadDesk AI is a white-label website FAQ and lead-capture assistant for local service businesses. It answers from an approved knowledge base, turns high-intent visitors into structured quote requests, and gives the business a simple lead dashboard.
 
 The included fictional **BrightHome Cleaning** site is a ready-to-demonstrate sales sample. Replace every sample claim, price, location, link, and policy with client-approved information before a real deployment.
