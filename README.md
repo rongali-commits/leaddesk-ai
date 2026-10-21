@@ -134,4 +134,4 @@ ruff check .
 
 ## Commercial use
 
-This package is prepared as a productized-service starter, not an open-source template. Review and customize [COMMERCIAL_LICENSE_TEMPLATE.md](COMMERCIAL_LICENSE_TEMPLATE.md) for each sale. The template is not legal advice.
+This package is prepared as a productized-service starter, not an open-source template. Public access is governed by [LICENSE.md](LICENSE.md). Review and customize [COMMERCIAL_LICENSE_TEMPLATE.md](COMMERCIAL_LICENSE_TEMPLATE.md) for each sale. The template is not legal advice.
